@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "512554788bdfc22c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a79df857ffd62536",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7aead97976d44901",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "This is a test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "This is a test"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4d40152a31a9d172",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c24bfaa642e2a6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2625e0440ec2811a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9878824205679cae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7fedea78af8f357f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a39d55c6cdcffb60",
+    "type": "split",
+    "children": [
+      {
+        "id": "f426f939b8e356e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9c97b280744b4ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Factions/Ember Forgeholds/Ember Forgeholds.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Ember Forgeholds"
+            }
+          },
+          {
+            "id": "80e57ebb04028af0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Factions/Ember Forgeholds/Ember Forgeholds.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Ember Forgeholds"
+            }
+          },
+          {
+            "id": "b1f6a89ff9fc8839",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "09c1ff2065d22c7e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "69a28bf5f97efddf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Factions/Ember Forgeholds/Ember Forgeholds.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Ember Forgeholds"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "7aead97976d44901",
+  "lastOpenFiles": [
+    "README.md",
+    "This is a test.md",
+    "Factions/Ember Forgeholds/Ember Forgeholds.md",
+    "Factions/Crimson Court/Crimson Court.md",
+    "Factions/Azur Enclave/Azur Enclave.md",
+    "Factions/Abyssal Brood/Abyssal Brood.md",
+    "Geography/Veythall.md",
+    "Geography/Shardspine Range.md",
+    "Races/Elves/World Mother.md",
+    "Races/Elves/Elves.md",
+    "World Laws and Information/Aether.md",
+    "World Laws and Information/Aether Scars.md",
+    "World Laws and Information/Aether Wells.md",
+    "World Laws and Information/world map.png",
+    "World Laws and Information/Ley-Lines.md",
+    "World Laws and Information/Endless Sea.md",
+    "Untitled.canvas"
+  ]
+}
