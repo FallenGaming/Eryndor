@@ -1,0 +1,3 @@
+Encircling the known world, the Endless Sea is an eternal mystery. Its tides are said to beat in rhythm with Aether's pulse, its storms charged with raw energy that twists compasses and drives sailors mad. Some legends claim that beyond its horizon lies the reflection of [[Eryndor]] itself - a mirror world of reversed fates. Others say the sea is where souls go when they vanish from the mortal plane.
+
+Trade and exploration persist despite the danger. The port nations cling to its edges, fearful of what lurks beneath, but drawn ever onward by stories of islands made of crystal and ruins that hum with ancient Aether.
