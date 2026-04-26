@@ -17,7 +17,7 @@ The Scars attract abominations born of [[corruption]]. These creatures feed on m
 The [[Abyssal Brood]] thrive in these zones, drawing power from the chaos and spreading the taint outwards. Demon cults, rogue sorcerers, and even [[Aether]] miners risk venturing into the Scars to harvest volatile [[Aether]] Crystals, though few return.
 
 # Purification and Containment
-Restoring balance to a Scar is nearly impossible. The [[Azur Enclave]] and [[Greenwood Pact|Greenwood]] druids attempt containment through ritual warding and ley realignment, while the [[silver crown]] favors sanctified bombardment - complete annihilation of the area. 
+Restoring balance to a Scar is nearly impossible. The [[Azur Enclave]] and [[Greenwood Pact|Greenwood]] druids attempt containment through ritual warding and ley realignment, while the [[Silver Crown]] favors sanctified bombardment - complete annihilation of the area. 
 
 Only a few legendary [[Aether Sanctums|Sanctums]] are known to have healed from Scars, usually through divine or world-altering intervention.
 # Notable Aether Scars

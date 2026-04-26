@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "This is a test.md",
+                "file": "World Laws and Information/Power Scaling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "This is a test"
+              "title": "Power Scaling"
             }
           }
         ]
@@ -185,12 +185,18 @@
   },
   "active": "7aead97976d44901",
   "lastOpenFiles": [
-    "README.md",
+    "Nations/Silver Crown/Key Figures/King Alaric III.md",
+    "World Laws and Information/Power Scaling.md",
+    "Nations/Silver Crown/Silver Crown.md",
+    "Nations/Silver Crown/Key Figures",
+    "World Laws and Information/world map.png",
     "This is a test.md",
-    "Factions/Ember Forgeholds/Ember Forgeholds.md",
-    "Factions/Crimson Court/Crimson Court.md",
-    "Factions/Azur Enclave/Azur Enclave.md",
-    "Factions/Abyssal Brood/Abyssal Brood.md",
+    "Untitled.canvas",
+    "README.md",
+    "Nations/Ember Forgeholds/Ember Forgeholds.md",
+    "Nations/Crimson Court/Crimson Court.md",
+    "Nations/Azur Enclave/Azur Enclave.md",
+    "Nations/Abyssal Brood/Abyssal Brood.md",
     "Geography/Veythall.md",
     "Geography/Shardspine Range.md",
     "Races/Elves/World Mother.md",
@@ -198,9 +204,7 @@
     "World Laws and Information/Aether.md",
     "World Laws and Information/Aether Scars.md",
     "World Laws and Information/Aether Wells.md",
-    "World Laws and Information/world map.png",
     "World Laws and Information/Ley-Lines.md",
-    "World Laws and Information/Endless Sea.md",
-    "Untitled.canvas"
+    "World Laws and Information/Endless Sea.md"
   ]
 }
