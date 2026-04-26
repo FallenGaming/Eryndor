@@ -15,3 +15,13 @@ Broad framed, slightly weathered but handsome features. Hair short and golden, s
 
 ### CLOTHING PREFERENCE
 Prefers regal white-and-gold robes layered over gilded ceremonial armor. Wears the "Crown of Dawn", a relic symbolizing his divine mandate.
+
+### POWER
+Class: Divine Knight
+Martial Rank: A
+Magical Rank: C
+School of Magic: None
+
+### AI PORTRAIT
+
+![[Pasted image 20260426012436.png]]
